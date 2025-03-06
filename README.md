@@ -19,6 +19,8 @@ VaricoseDetection is an AI-powered solution designed to predict the presence of 
 4. NumPy & Pandas for data handling
 5. CNN
 
+<img src="download-2.png" alt="ADAS-PeVision Demo" width="500">
+
 🛠 Installation & Usage
 1️⃣ Clone the Repository
 *git clone https://github.com/yourusername/VaricoseDetection.git
