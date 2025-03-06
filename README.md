@@ -1,3 +1,4 @@
+# VaricoseDetection
 VaricoseDetection is an AI-powered solution designed to predict the presence of varicose veins using Convolutional Neural Networks (CNN). This project aims to assist healthcare professionals in early detection and diagnosis, reducing the reliance on invasive procedures and expediting the screening process.
 
 <img src="download.png" alt="ADAS-PeVision Demo" width="500">
