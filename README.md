@@ -25,6 +25,7 @@ VaricoseDetection is an AI-powered solution designed to predict the presence of 
 1️⃣ Clone the Repository
 
 *git clone https://github.com/yourusername/VaricoseDetection.git
+
 *cd VaricoseDetection
 
 2️⃣ Install Dependencies
