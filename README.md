@@ -24,19 +24,19 @@ VaricoseDetection is an AI-powered solution designed to predict the presence of 
 🛠 Installation & Usage
 1️⃣ Clone the Repository
 
-*git clone https://github.com/yourusername/VaricoseDetection.git
+-> git clone https://github.com/yourusername/VaricoseDetection.git
 
-*cd VaricoseDetection
+-> cd VaricoseDetection
 
 2️⃣ Install Dependencies
 
-*pip install -r requirements.txt
+-> pip install -r requirements.txt
 Or manually install:
-pip install tensorflow opencv-python numpy pandas matplotlib
+-> pip install tensorflow opencv-python numpy pandas matplotlib
 
 3️⃣ Run the Model
 
-*python train.py
+-> python train.py
 
 <img src="download-3.png" alt="ADAS-PeVision Demo" width="500">
 
