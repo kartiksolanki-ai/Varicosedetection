@@ -8,7 +8,9 @@ VaricoseDetection is an AI-powered solution designed to predict the presence of 
 2. Medical Imaging Analysis: Processes vein images for pattern recognition.
 3. Early Detection: Assists in identifying varicose veins at an early stage.
 4. Non-Invasive Screening: Reduces the need for unnecessary medical procedures.
-   
+
+<img src="download-1.png" alt="ADAS-PeVision Demo" width="500">
+
 🔧 Technologies Used
 1. Python
 2. TensorFlow / PyTorch
